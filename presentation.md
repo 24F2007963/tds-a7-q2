@@ -30,6 +30,18 @@ style: |
   }
 ---
 
+<style>
+  blockquote {
+    font-style: italic;
+  }
+  section {
+    background-image: url('qr-code.png');
+    background-repeat: no-repeat;
+    background-position: top 20px right 20px;
+    background-size: 80px auto;
+  }
+</style>
+
 <!--
   Product Documentation — Marp
   Author: Technical Writer
@@ -58,7 +70,7 @@ Comprehensive documentation — quick overview
 
 ---
 
-<!-- _backgroundImage: url('https://picsum.photos/1200/800') -->
+<!-- _backgroundImage: url('https://picsum.photos/200/300') -->
 <!-- _color: white -->
 # Product Demo
 This slide has a background image!
