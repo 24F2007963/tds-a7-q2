@@ -50,6 +50,7 @@ style: |
 ![bg cover](background.jpg) # Cover slide
 
 
+
 <!--
   Product Documentation — Marp
   Author: Technical Writer
@@ -67,6 +68,14 @@ Comprehensive documentation — quick overview
 <footer class="marp-footer">© AtlasDB • <span>{{page}} / {{total}}</span></footer>
 
 ---
+
+Inline math: $E = mc^2$
+
+Block math:
+
+$$
+\frac{d}{dx}e^x = e^x
+$$
 
 <!-- slide: class="center" -->
 
