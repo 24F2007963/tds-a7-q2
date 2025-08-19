@@ -58,7 +58,10 @@ Comprehensive documentation — quick overview
 
 ---
 
-<!-- backgroundImage: https://images.unsplash.com/photo-1526378726075-0b377f7bbd8d?w=1600&q=80 -->
+<!-- _backgroundImage: url('https://picsum.photos/1200/800') -->
+<!-- _color: white -->
+# Product Demo
+This slide has a background image!
 <!-- You can also use your own image hosted in the repo (relative path). -->
 # Visual Overview
 This slide uses a **background image** to show architecture.
