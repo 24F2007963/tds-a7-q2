@@ -42,11 +42,20 @@ style: |
   }
 </style>
 
+
+<!-- Background image -->
+
+![bg](background.jpg)
+![bg fit](background.jpg) # Fit to slide
+![bg cover](background.jpg) # Cover slide
+
+
 <!--
   Product Documentation — Marp
   Author: Technical Writer
   Contact: 24f2007963@ds.study.iitm.ac.in
 -->
+
 
 # Product: AtlasDB
 Comprehensive documentation — quick overview
