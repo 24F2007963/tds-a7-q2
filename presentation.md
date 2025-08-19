@@ -35,7 +35,7 @@ style: |
     font-style: italic;
   }
   section {
-    background-image: url('qr-code.png');
+    background-image: url('https://picsum.photos/200');
     background-repeat: no-repeat;
     background-position: top 20px right 20px;
     background-size: 80px auto;
