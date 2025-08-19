@@ -22,6 +22,22 @@ paginate: true
   }
 </style>
 
+<!--
+  Product Documentation — Marp
+  Author: Technical Writer
+  Contact: 24f2007963@ds.study.iitm.ac.in
+-->
+
+# Product: AtlasDB
+Comprehensive documentation — quick overview
+
+<div class="callout">
+**Contact**: <code>24f2007963@ds.study.iitm.ac.in</code>
+</div>
+
+<footer class="marp-footer">© AtlasDB • <span>{{page}} / {{total}}</span></footer>
+
+---
 # Data Design by Dialogue by 24f2007963@ds.study.iitm.ac.in
 
 #### [Visualizing Data with LLMs](https://hasgeek.com/VizChitra/2025/schedule/data-design-by-dialogue-visualizing-data-with-llms-RM88yTfBNKrgSAJFiL2RQL) | [Slides](https://sanand0.github.io/talks/2025-06-27-data-design-by-dialogue/)
